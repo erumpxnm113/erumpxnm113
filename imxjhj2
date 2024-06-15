@@ -1,0 +1,4 @@
+      ArrayList<String> list2 = new ArrayList<>();
+      list2.add("Four");
+      list2.add("Five");
+      System.out.println("ArrayList of String: " + list2);
