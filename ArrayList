@@ -1,0 +1,6 @@
+      ArrayList<Double> list3 = new ArrayList<>();
+      list3.add(4.5);
+      list3.add(6.5);
+      System.out.println("ArrayList of Double: " + list3);
+   }
+}
